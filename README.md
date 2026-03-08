@@ -82,5 +82,7 @@ OnlineRetailDB/
 
 **Manav Gulati**  
 Aspiring Data Analyst | SQL • Excel • PowerBI
+
 📧 gulatimanav00@gmail.com
+
 🔗 https://www.linkedin.com/in/manavgulati12/ | https://github.com/ManavGulati123
